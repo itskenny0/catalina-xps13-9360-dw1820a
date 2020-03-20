@@ -1,2 +1,7 @@
 # catalina-xps13-9360-dw1820a
-Clover config required to run the Dell XPS 13 9360 with a DW1820A optimally
+Just a copy of the config I use which is stable. WiFi works, Bluetooth works with the DW1820A CN-0VW3T3 variant.
+Trackpad supports full gestures. AirDrop, AirPlay and other related features work.
+
+massively based on 
+the-Quert/XPS-9360-macOS
+the-darkvoid/XPS9360-macOS
